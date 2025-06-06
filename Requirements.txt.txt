@@ -1,0 +1,21 @@
+The Libraries and dependencies in the project have been listed here.
+
+1. Insurance Claim Prediction and Risk Analysis:
+pandas, numpy, matplotlib.pyplot, seaborn, sklearn, xgboost, mlflow
+
+2.Fraud detection:
+pandas, numpy, matplotlib.pyplot, seaborn, sklearn, tensorflow, imblearn(SMOTETomek), mlflow, shap
+
+3. Sentiment Analysis:
+pandas, spacy, sklearn, matplotlib, seaborn, numpy, transformers - 
+
+4. Customer Segmentation:
+pandas, numpy, matplotlib.pyplot, seaborn, sklearn, xgboost, mlflow
+
+5. Insurance Policy Translator and Summarizer:
+transformers - Helsinki, Bart and mBart
+
+6. AI Assistant - Chatbot:
+pandas, numpy, faiss, sentence_transformers, transformers - Bart
+
+
